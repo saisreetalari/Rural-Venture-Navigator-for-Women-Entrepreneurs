@@ -1,0 +1,90 @@
+{
+  "opportunity_discovery": {
+    "input_skills_and_assets": [],
+    "defined_business_opportunity": "",
+    "customer_problem_solved": "",
+    "evidence": []
+  },
+  "demand_validation": {
+    "real_world_test": "",
+    "test_duration_days": 0,
+    "target_customers_to_test": 0,
+    "paid_orders_target": 0,
+    "willingness_to_pay_evidence": []
+  },
+  "pricing_and_unit_economics": {
+    "unit_definition": "",
+    "raw_material_cost_inr": 0,
+    "entrepreneur_labor_cost_inr": 0,
+    "packaging_cost_inr": 0,
+    "storage_spoilage_cost_inr": 0,
+    "transport_logistics_cost_inr": 0,
+    "platform_or_intermediary_commission_inr": 0,
+    "total_unit_cost_inr": 0,
+    "selling_price_inr": 0,
+    "unit_margin_inr": 0,
+    "margin_percentage": 0
+  },
+  "route_to_market_comparison": {
+    "village_direct": {
+      "margin_level": "",
+      "volume_potential": "",
+      "payment_delay": "",
+      "digital_literacy_required": "",
+      "suitability": ""
+    },
+    "town_markets": {
+      "margin_level": "",
+      "volume_potential": "",
+      "payment_delay": "",
+      "digital_literacy_required": "",
+      "suitability": ""
+    },
+    "shgs": {
+      "margin_level": "",
+      "volume_potential": "",
+      "payment_delay": "",
+      "digital_literacy_required": "",
+      "suitability": ""
+    },
+    "whatsapp_social_commerce": {
+      "margin_level": "",
+      "volume_potential": "",
+      "payment_delay": "",
+      "digital_literacy_required": "",
+      "suitability": ""
+    }
+  },
+  "risk_and_resilience": {
+    "seasonality": {
+      "risk": "",
+      "impact": "",
+      "mitigation": ""
+    },
+    "credit_sales": {
+      "risk": "",
+      "impact": "",
+      "mitigation": ""
+    },
+    "cash_flow": {
+      "risk": "",
+      "impact": "",
+      "mitigation": ""
+    },
+    "spoilage": {
+      "risk": "",
+      "impact": "",
+      "mitigation": ""
+    }
+  },
+  "support_pathways": [
+    {
+      "scheme_or_program": "",
+      "source": "",
+      "eligibility": "",
+      "support_available": "",
+      "verification_status": "unverified",
+      "notes": ""
+    }
+  ]
+}
