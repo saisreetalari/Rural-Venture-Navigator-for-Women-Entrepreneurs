@@ -1,0 +1,31 @@
+{
+  "title": "RURAL VENTURE DECISION CARD",
+  "entrepreneur_and_business_context": "",
+  "customer_and_problem_addressed": "",
+  "evidence_collected": "",
+  "key_assumptions_still_untested": "",
+  "unit_cost_selling_price_and_expected_margin": {
+    "raw_materials_inr": 0,
+    "labor_inr": 0,
+    "packaging_inr": 0,
+    "transport_inr": 0,
+    "commission_inr": 0,
+    "storage_spoilage_inr": 0,
+    "total_unit_cost_inr": 0,
+    "selling_price_inr": 0,
+    "expected_margin_inr": 0,
+    "expected_margin_percentage": 0
+  },
+  "break_even_estimate": {
+    "quantity": 0,
+    "value_inr": 0
+  },
+  "recommended_sales_channel": "",
+  "principal_risks_and_mitigation": [],
+  "final_decision": "",
+  "30_day_practical_action_plan": {
+    "days_1_10": "",
+    "days_11_20": "",
+    "days_21_30": ""
+  }
+}
