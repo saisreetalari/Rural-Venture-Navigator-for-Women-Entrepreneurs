@@ -1,0 +1,25 @@
+{
+  "facts_supplied_by_entrepreneur": [],
+  "verified_external_information": [],
+  "assumptions_made_by_system": [],
+  "calculations": {
+    "total_unit_cost_inr": 0,
+    "selling_price_inr": 0,
+    "unit_margin_inr": 0,
+    "fixed_costs_inr": 0,
+    "break_even_quantity": 0,
+    "break_even_value_inr": 0,
+    "calculation_notes": ""
+  },
+  "missing_evidence": [],
+  "reasoning_behind_decision": "",
+  "final_decision": "",
+  "allowed_decisions": [
+    "Proceed",
+    "Pilot",
+    "Modify",
+    "Collaborate",
+    "Test Further",
+    "Pause"
+  ]
+}
