@@ -1,0 +1,21 @@
+{
+  "local_marketing": {
+    "strategy": "",
+    "actions": [],
+    "estimated_cost_inr": 0
+  },
+  "cash_flow_and_credit_management": {
+    "strategy": "",
+    "actions": [],
+    "credit_policy": "",
+    "cash_collection_method": ""
+  },
+  "simple_digital_tools": {
+    "strategy": "",
+    "tools": [
+      "WhatsApp"
+    ],
+    "actions": [],
+    "digital_skill_level_required": ""
+  }
+}
